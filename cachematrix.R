@@ -1,9 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
-makeCacheMatrix <- function(x = matrix()) {
 # makeCacheMatrix is a function that returns a list of functions
 # Its puspose is to store a martix and a cached value of the inverse of the 
 # matrix.
